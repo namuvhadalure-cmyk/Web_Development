@@ -1,0 +1,10 @@
+
+.env
+.env.*
+!.env.example
+vendor/
+node_modules/
+*.log
+.vscode/
+.idea/
+*.sql
